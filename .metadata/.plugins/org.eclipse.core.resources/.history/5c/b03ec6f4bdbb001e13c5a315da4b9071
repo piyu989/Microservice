@@ -1,0 +1,5 @@
+package com.ques.service;
+
+public class QuestionServiceImpl {
+
+}
